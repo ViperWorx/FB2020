@@ -1,0 +1,97 @@
+#####02/02/16
+
+original upload
+
+#####03/02/16
+
+Bed Mounts uploaded
+
+#####04/02/16
+
+Rigid coupler added
+
+#####05/02/16
+
+Rigid Coupler design slimmed down (damn my spacial awareness), Carriage modified to stiffen up clamp for E3D
+
+#####06/02/16
+
+Carriage modified to allow for printing without supports, clamp shortened by 2mm
+
+#####07/02/16
+
+Bed Holder bearing holes enlarged by 0.3mm to allow easier fitting of the bearings and to allow for printing variances. Carriage SCAD file & RAMPS mount uploaded
+
+#####09/02/16
+
+Modified Z Leadscrew Holder & Z Endstop mount - original had holes too close for T nuts.
+
+#####14/02/15
+
+Added quick and dirty spool clamp. Needs M8 Threaded rod and 2 13mm nuts
+
+#####16/02/15
+
+Added carriers for Y axis. Designed to work with the new X Carriage as the belt clips will not align with the existing Carriers. Uploaded all parts. Carriers printed and found to be a little tight on the bearings and not enough space to guide the belts. Modified to guide the belts, left carrier now has endstop lug to hit the Y endstop.
+
+#####18/02/15
+
+Reinforced Y rod carriers, fed up of them breaking. Carrier near right hand idler will need support. Printed and modified again (removed cap our rail mounts) to allow for irregular length rods. Mine are ~1mm out. Carriers modified to allow the same. Bill of Materials added
+
+#####20/02/15
+
+Carriage modified, reinforcing belt clips fixed bearing alignment with carriers. Bed Carrier extrusion slots widened by 0.4mm. Far too tight to fit the bed extrusions effectively.
+
+#####25/02/15
+
+Left and Right Carriers now have inbuilt support on the clamp slot, this was done due to printing issues. Extruder Carriage now has slightly thicker and taller belt clips. Spool holder nut slot enlarged due to being too small. Short version of the Z axis Carriers added, allows use of LM8LUUs. Removed rigid coupler as there's a slight Z wobble. Leadscrew nut holder central hole increased in size as too small. All files refreshed and have been numbered with the amount to print. Lost spool holder SCAD file in a shift-delete accident.. :(. Files marked Culain are originals from Culain's design. The bed holders have just been re-orientated and mirrored, no other physical changes have been made. After a conversation over on the RepRap forums, the option to add an endstop to the Extruder Carriage has been added. You will need a standard Omron style micro-switch and 2x 14mm M2 bolts, these should screw directly into the Carriage but can alst use nuts on the other side. This allows one bundle of cables and tubing to be moving over having the endstop moving on the Y Axis and the Bowden tube moving on the Carriage. Derped on hole placement for Omron Microswitch, corrected. Moved Y endstop bumper down, wouldn't make proper contact. Uploaded SCAD files for Carriers and Spool Clamp, didn't delete it after all.
+
+#####27/02/16
+
+Added Left carrier with no endstop mount to complement the move of the endstop to the carriage - this will print without support, STL & SCAD file uploaded for this. Updated RAMPS mount, Derped putting stand-offs on the wrong side. Moved the RAMPS in by 5mm
+
+#####03/03/16
+
+Front Bed Holders reworked as they did not fit. Corner Idlers strengthened, the top bearing holder was constantly breaking on the right side. Z Endstop mount lengthened due to not enough travel. Renamed FB2020 due to very little being left of the original design and is now in it's own right a different printer. Added Bowden Tube wire clips, source added.
+
+#####06/03/16
+
+Z Endstop reworked, now uses an Omron-style limit switch and bumps off of the Z Carrier. Fron Bed Tie added to stiffen up bed, (this can be changed out for another 147mm Extrusion piece and 2 more corner brackets. Front bed holders tweaked to bring holes in line with the Z Axis bed holders. Added a new Rigid Coupler for the Z Axis, clamps concentrically with 2x M3x16 Bolts. Z Leadscrew length shortened to 250mm as 300mm fouls the Extruder carriage
+
+#####08/03/15
+
+Carriage - Belt clip notches moved to opposite side and E3D mount widened to allow easy fitting - SCAD file modified to allow extra diameter for printing. A twist in the Belts on the outer long runs is now needed. This makes the belt run on the smooth side for all the idlers and increases print quality.
+
+Idlers - Re-orientated for strength layers are now in the opposite direction of the belt tension, now need printing with support.
+
+Bowden tube wire clips added to keep Bowden tube and hot end wiring together and tidy
+
+Bowden Clip added to keep E3D collet up and stop filament backlash.
+
+Compact Direct Drive Extruder added - modified for a 6mm Pneumatic Coupler and an E3D HobbGoblin Drive Gear
+
+Updated BOM to reflect changes.
+
+#####02/04/16
+
+Firmware updated to Marlin 1.1 RC4. Enabled Mesh Bed Levelling and PID on the Bed. X0 Y0 is the Front left of the printer, Y homes to Max.
+
+#####07/04/16
+
+Changed layer fan for spinorkit's 2 pronged setup, which has been shortened to allow clearance of the leadscrew, this layer fan assembly is a lot more effective as it cools from two sides. As such this needed a new Active cooling duct for the E3D hot end, to mount the layer fan off of, this cooling duct clamps with 2 22mm M3 bolts and will not move once clamped.
+
+#####14/04/16
+
+Description updated and planned changes added.
+
+#####17/04/16
+
+Bed converted to 3 point levelling, new brackets added, use front bed tie for the middle of the bed to stiffen. Longer lengths for bed reduced to 235mm.
+
+#####19/04/16
+
+Carriage updated. Added extra room for cabling from hot end & flattened off clamp on carriage. This should allow for easier belt fitting and will retain the nut on the clamp on the carriage. Several minor changes including centring up of the hot end. Note the STLS are uploaded with 0.4mm tolerance as my Prusas print tight. If you need less grab the SCAD file.
+
+#####20/04/16
+
+Carriage extended by 5mm to allow further easier fitting of belts and hot end. There's roughly 4.5mm either side of the bed so there is room for further extension if needed. 
