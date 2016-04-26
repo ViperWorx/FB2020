@@ -32,10 +32,14 @@ https://youtu.be/bmPf83OeyGA - Printing the Rigid coupler in ColorFabb NGEN at 8
 https://youtu.be/XaOWR-UzrOI-  2nd Print - #3DBenchy Timelapse.
 
 
-Additional sources:
+####Additional sources:
 
 FuseBox CoreXY 3D Printer by AlexY - http://www.thingiverse.com/thing:1047193
+
 FuseBox 1.3 2020 by Culain - http://www.thingiverse.com/thing:1247161
+
 Compact Bowden Extruder, direct drive 1.75 by Schlotzz - http://www.thingiverse.com/thing:275593
+
 Bowden tube wire clip - http://www.thingiverse.com/thing:661426
+
 Fan duct for active cooling, supportless, parametized OpenSCAD Fan duct for active cooling, supportless, parametized OpenSCAD by Spinorkit - http://www.thingiverse.com/thing:217253
