@@ -7,3 +7,5 @@ The Ethos of the Fusebox was to keep parts pricing low, which at the beginning o
 There are 2 versions, the Standard FB2020 and the FB2020 Plus. The Standard has a build volume of 200x200x170 and the Plus has a Build volume of 200x200x280(ish - this is still to be determined as parts are needed to confirm).
 
 The Bill of Materials and further infomation can be found in the Wiki.
+
+Firmware can be found at https://github.com/AxMod3DPrint/FB2020-Firmware
