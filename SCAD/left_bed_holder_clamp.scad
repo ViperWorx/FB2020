@@ -1,7 +1,6 @@
 $fn=64;
 module bedholder(){
-
-import("/mnt/genesis/Documents/STLs/FuseBox1.3_2020/files/Left_Bed_Holder_NEW.stl");
+import("Left_Bed_Holder_NEW.stl");
 }
 
 
