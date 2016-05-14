@@ -1,4 +1,4 @@
-# FB2020 2020 CoreXY 3D Printer
+<img src="https://raw.githubusercontent.com/AxMod3DPrint/FB2020/master/Images/FB2020_logo.jpg" />
 
 This is a rework of the Fusebox 2020 by Culain, which in turn is a rework of the Original Fusebox by AlexY. However at this point, there's not really much left of the mechanical workings of the original design. All the Carriage parts now have push fit bearings opposed to being cable tied. The X and Y Axis have been re-designed from the ground up to allow push fitting of the bearings. The Z axis is still mostly Culain's design, but has been modified to allow push fitting of bearings. 
 
