@@ -1,0 +1,50 @@
+{
+  "ThemeColor": "",
+  "AffiliateCode": "5NEP8W",
+  "WindowTitleExtra": "",
+  "ShowShopButton": true,
+  "CheckForUpdatesOnFirstRun": false,
+  "PrinterWhiteList": [
+    "AxMod 3D Print",
+    "3D Factory",
+    "3D Stuffmaker",
+    "Airwolf 3D",
+    "Blue Eagle Labs",
+    "Deezmaker",
+	"Esagonò",
+	"FlashForge",
+	"gCreate",
+	"JumpStart",
+    "Leapfrog",
+    "Lulzbot",
+    "MakerGear",
+    "Maker's Tool Works",
+    "MAKEiT",
+    "MakerBot",
+    "Me3D",
+    "OpenBeam",
+    "Other",
+    "Portabee",
+    "Printrbot",
+    "PrintSpace",
+    "Revolution 3D Printers",
+    "ROBO 3D",
+    "SeeMeCNC",
+    "Solidoodle",
+    "Type A Machines",
+	"Ultimaker",
+    "Wanhao",
+    "Velleman",
+  ],
+  "ManufacturerNameMappings": [
+  	{
+  		"NameOnDisk": "Esagono",
+  		"NameToDisplay": "Esagonò",
+  	}
+  ],
+  "PreloadedLibraryFiles": [
+	"MatterControl - Coin.stl",
+    "MatterControl - Stand.stl",
+    "Calibration - Box.stl"
+  ]
+}
