@@ -2,13 +2,15 @@ $fn=32;
 $epsilon=0.01;
 difference(){
 translate([-4,0,35])
-import("/mnt/genesis/Dropbox/STLs/FuseBox1.3_2020/files/SCAD/rod_clamp_endstop_fixed.stl");
+import("rod_clamp_endstop_fixed.stl");
 translate([8.6,20,8])
 rotate([90,0,0])
 cylinder(d=4.4, h=5);
 
 translate([8.552,5.999,0])
 cylinder(d=8.4,h=40, $fn=24);
+translate([3.2,6.499,0])
+cube([10.8,10,12]);
 }
 
 difference(){
