@@ -5,7 +5,7 @@ G91 ;Relative positioning
 G1 E-1 F300  ;retract the filament a bit before lifting the nozzle to release some of the pressure
 G1 E-5 F4800; Retract
 G90 ; Absolute positioning
-G1 Z275; Bed to bottom of printer
+G1 Z170; Bed to bottom of printer
 G28 X Y F4800; home X & Y axis
 M84; disable all stepper motors
 M117 Work Complete!
