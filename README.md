@@ -10,4 +10,24 @@ The Bill of Materials and further infomation can be found in the Wiki.
 
 Firmware can be found at https://github.com/AxMod3DPrint/FB2020-Firmware
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<hr />
+<table border="0px">
+<th align="left">
+&copy; AxMod 3D Print 2017.
+</th>
+<tr>
+<td>
+This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2.
+</td>
+</tr>
+<tr>
+<td>
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions
+</td>
+</tr>
+</table>
