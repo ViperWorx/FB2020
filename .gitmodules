@@ -1,0 +1,6 @@
+[submodule "Drakon Extruder"]
+	path = Drakon Extruder
+	url = https://github.com/AxMod3DPrint/Drakon-Extruder
+[submodule "FB2020-Firmware"]
+	path = FB2020-Firmware
+	url = https://github.com/AxMod3DPrint/FB2020-Firmware
